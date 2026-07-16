@@ -25,7 +25,7 @@ The assessment included network scanning, packet analysis, vulnerability assessm
 - Windows 10
 - Nmap
 - Wireshark
-- OpenVAS
+- Metasploit Framework
 - Snort IDS
 
 ---
@@ -39,7 +39,7 @@ Performed host discovery and port scanning using **Nmap** to identify running se
 Captured and analysed network traffic using **Wireshark** to identify protocols, plaintext communication, and suspicious activity.
 
 ### 3. Vulnerability Assessment
-Performed vulnerability scanning using **OpenVAS**, reviewed CVEs, prioritised risks, and recommended mitigations.
+Used the Metasploit Framework to identify and investigate known vulnerabilities. Reviewed CVE information, assessed vulnerability severity, and recommended appropriate remediation measures.
 
 ### 4. Intrusion Detection
 Used **Snort IDS** to detect simulated reconnaissance activity and analyse intrusion alerts.
@@ -75,14 +75,14 @@ network-security-risk-assessment-lab/
 
 ## 📷 Project Screenshots
 
-Screenshots are stored in the **images** folder.
+Screenshots demonstrating the practical activities are stored in the **images** folder.
 
-Examples include:
+The project includes screenshots of:
 
-- Nmap scan results
+- Nmap network scan results
 - Wireshark packet captures
-- OpenVAS vulnerability scan
-- Snort IDS alerts
+- Metasploit vulnerability assessment
+- Snort intrusion detection alerts
 
 ---
 
@@ -104,11 +104,11 @@ The project report can be found in the **reports** folder.
 
 ## 🚀 Future Improvements
 
-- Perform authenticated vulnerability scans.
+- Gain hands-on experience with OpenVAS (Greenbone Community Edition).
+- Integrate vulnerability scanning with additional security tools.
 - Deploy a SIEM solution for centralized log analysis.
 - Automate vulnerability reporting.
-- Implement firewall hardening.
-- Conduct regular security audits.
+- Conduct regular security assessments.
 
 ---
 
