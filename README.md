@@ -75,14 +75,55 @@ network-security-risk-assessment-lab/
 
 ## 📷 Project Screenshots
 
-Screenshots demonstrating the practical activities are stored in the **images** folder.
+### Nmap Network Scanning
 
-The project includes screenshots of:
+![Nmap Scan 1](images/nmap.jpeg)
 
-- Nmap network scan results
-- Wireshark packet captures
-- Metasploit vulnerability assessment
-- Snort intrusion detection alerts
+![Nmap Scan 2](images/nmap-O.jpeg)
+
+![Nmap Scan 3](images/nmap-sS.jpeg)
+
+![Nmap Scan 4](images/nmap24.jpeg)
+
+---
+
+### Wireshark Packet Analysis
+
+![Wireshark HTTP](images/TCP2.jpeg)
+
+![Wireshark HTTP](images/TCPStream.jpeg)
+
+![Wireshark HTTP](images/TCP.jpeg)
+
+![Wireshark HTTP](images/http.jpeg)
+
+![Wireshark HTTP](images/Interface.jpeg)
+
+![Wireshark HTTP](images/addr.jpeg)
+
+![Wireshark HTTP](images/DNS1.jpeg)
+
+![Wireshark HTTP](images/DNS2.jpeg)
+
+![Wireshark HTTP](images/DNS.jpeg)
+
+---
+
+### Metasploit Vulnerability Assessment
+
+![Metasploit](images/Metasploit1.jpeg)
+
+![Metasploit](images/Metasploit2.jpeg)
+
+![Metasploit](images/Metasploit3.jpeg)
+
+---
+
+### Snort Intrusion Detection
+
+![Snort Alert](images/snort1.jpeg)
+![Snort Alert](images/snort2.jpeg)
+![Snort Alert](images/snort.jpeg)
 
 ---
 
